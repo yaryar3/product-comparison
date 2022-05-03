@@ -1,0 +1,13 @@
+.blocs1, .blocs2, .blocs3, .blocs4, .blocs5, .blocs6, .blocs7, .blocs8 {background:#eee;}
+.blocs1 > .b1{display:none}
+.blocs2 > .b2{display:none}
+.blocs3 > .b3{display:none}
+.blocs4 > .b4{display:none}
+.blocs5 > .b5{display:none}
+.blocs6 > .b6{display:none}
+.blocs7 > .b7{display:none}
+.blocs8 > .b8{display:none}
+
+.backroundcolor {
+    background-color: white;
+}
